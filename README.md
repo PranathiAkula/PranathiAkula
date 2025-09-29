@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Pranathi
 
-I'm a Data Analyst with experience in various projects.
+## I'm a Data Analyst with experience in various projects.
 
-## PROJECTS
+PROJECTS
 
 ** Coffee Sales Dashboard Project **
 - Created a dashboard to visualize Coffee Sales Data.
