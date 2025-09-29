@@ -1,4 +1,4 @@
-<h2><div align="center">## Hi there 👋 I'm Pranathi</div></h2>
+<h2><div align="center">Hi there 👋 I'm Pranathi</div></h2>
 
 ## I'm a Data Analyst with experience in various projects.
 
