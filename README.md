@@ -1,8 +1,8 @@
 <h2><div align="center">Hi there 👋 I'm Pranathi</div></h2>
 
-## I'm a Data Analyst with experience in various projects.
+<h2><div align = 'center'> I'm a Data Analyst with experience in various projects.</div>div></h2> 
 
-PROJECTS
+<h3>PROJECTS</h3>
 
 ** Coffee Sales Dashboard Project **
 - Created a dashboard to visualize Coffee Sales Data.
