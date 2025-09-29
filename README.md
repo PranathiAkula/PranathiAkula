@@ -1,4 +1,4 @@
-													## Hi there 👋 I'm Pranathi
+<div align="center">####### Hi there 👋 I'm Pranathi</div>`
 
 ## I'm a Data Analyst with experience in various projects.
 
