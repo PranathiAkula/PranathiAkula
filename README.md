@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Pranathi
+							## Hi there 👋 I'm Pranathi
 
 ## I'm a Data Analyst with experience in various projects.
 
