@@ -1,8 +1,7 @@
 <h1><div align="center">Hi there 👋 I'm Pranathi</div></h1>
 <h3><div align="center">👩‍💻 Data & Business Intelligence Analyst </div> </h3>
 <h4><div align="center">⚙️ Power BI | SQL | Python | Excel | SQL Server </div></h4>
-
-<div align ="center">I’m passionate about transforming raw data into actionable insights and developing interactive dashboards that drive smarter business decisions. With 4+ years of professional experience across data analytics, BI reporting, and dashboard development, I’ve helped organizations optimize performance, automate reporting, and enhance data visibility across teams.</div>
+I’m passionate about transforming raw data into actionable insights and developing interactive dashboards that drive smarter business decisions. With 4+ years of professional experience across data analytics, BI reporting, and dashboard development, I’ve helped organizations optimize performance, automate reporting, and enhance data visibility across teams.
 
 <h2>🎯About Me </h2>
 
