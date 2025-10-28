@@ -1,6 +1,10 @@
 <h1><div align="center">Hi there 👋 I'm Pranathi</div></h1>
-<h2><div align="center">👩‍💻 Data & Business Intelligence Analyst | Power BI | SQL | Python | Excel | SQL Server </div></h2>
-I’m passionate about transforming raw data into actionable insights and developing interactive dashboards that drive smarter business decisions. Data & BI professional with 3+ experience in Power BI, Azure SQL, AWS Redshift, Python, R, ETL, and data warehousing. Skilled in building interactive dashboards, automated data pipelines, predictive models, and retail/clinical analytics solutions. Proven track record in optimizing SQL queries and dashboards to improve performance (up to 60%), integrating structured and unstructured data, and delivering actionable insights to drive business and clinical outcomes. Experienced in collaborating with stakeholders, training teams, and enabling data-driven decision-making across healthcare and retail domains. 
+<h2><div align="center">👩‍💻 Data & Business Intelligence Analyst </div></h2>
+I’m passionate about transforming raw data into actionable insights and developing interactive dashboards that drive smarter business decisions. 
+Data & BI professional with 3+ experience in Power BI, Azure SQL, AWS Redshift, Python, R, ETL, and data warehousing. 
+Skilled in building interactive dashboards, automated data pipelines, predictive models, and retail/clinical analytics solutions. 
+Proven track record in optimizing SQL queries and dashboards to improve performance (up to 60%), integrating structured and unstructured data, and delivering actionable insights to drive business and clinical outcomes. 
+Experienced in collaborating with stakeholders, training teams, and enabling data-driven decision-making across healthcare and retail domains. 
 
 <h2>🎯About Me </h2>
 
