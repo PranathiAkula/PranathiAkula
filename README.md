@@ -41,8 +41,6 @@ Experienced in collaborating with stakeholders, training teams, and enabling dat
 - Automating recurring reports to save time and reduce errors.
 - Collaborating with teams to drive data-driven decisions.
 
-<h2>Let's Connect</h2>
 
-**LinkedIn:** (www.linkedin.com/in/P-akhula07)
 
 
