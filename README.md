@@ -1,17 +1,14 @@
 <h1><div align="center">Hi there 👋 I'm Pranathi</div></h1>
 <h2><div align="center">👩‍💻 Data & Business Intelligence Analyst </div></h2>
 I’m passionate about transforming raw data into actionable insights and developing interactive dashboards that drive smarter business decisions. 
-Data & BI professional with 4+ experience in Power BI, Azure SQL, AWS Redshift, Python, R, ETL, and data warehousing. 
-Skilled in building interactive dashboards, automated data pipelines, predictive models, and retail/clinical analytics solutions. 
-Proven track record in optimizing SQL queries and dashboards to improve performance (up to 60%), integrating structured and unstructured data, and delivering actionable insights to drive business and clinical outcomes. 
-Experienced in collaborating with stakeholders, training teams, and enabling data-driven decision-making across healthcare and retail domains. 
+Data & BI professional with hands-on experience in SQL, Power BI, Azure SQL, AWS, Python, R, ETL, and data warehousing. 
+Skilled in building interactive dashboards, automated data pipelines, predictive models. Proven track record in optimizing SQL queries and dashboards to improve performance (up to 60%), integrating structured and unstructured data, and delivering actionable insights to drive business outcomes. 
 
 <h2>🎯About Me </h2>
 
-- Professional Experience: Cencora, Amazon
 - Master's in Engineering Management(Information Systems) from Indiana Tech
 - Skilled in SQL, Azure SQL, Power BI, Excel, Tableau, Python, and R.
-- 4+ years of experience across Data Analysis, BI Development, and Data Engineering.
+- Hands-of of experience across Data Analysis, BI Development, and Data Engineering.
 - Focused on creating data-driven solutions that improve operational efficiency
   
 <h2>🚀 Featured Projects</h2>
