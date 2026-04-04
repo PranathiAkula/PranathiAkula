@@ -1,7 +1,7 @@
 <h1><div align="center">Hi there 👋 I'm Pranathi</div></h1>
-<h2><div align="center">👩‍💻 Data & Business Intelligence Analyst </div></h2>
+<h2><div align="center">👩‍💻 Data Analyst </div></h2>
 I’m passionate about transforming raw data into actionable insights and developing interactive dashboards that drive smarter business decisions. 
-Data & BI professional with hands-on experience in SQL, Power BI, Azure SQL, AWS, Python, R, ETL, and data warehousing. 
+Data & BI professional with hands-on experience in SQL, Power BI, Azure SQL, AWS, Python, R. 
 Skilled in building interactive dashboards, automated data pipelines, predictive models. Proven track record in optimizing SQL queries and dashboards to improve performance (up to 60%), integrating structured and unstructured data, and delivering actionable insights to drive business outcomes. 
 
 <h2>🎯About Me </h2>
