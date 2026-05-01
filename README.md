@@ -1,4 +1,4 @@
-<h1><div align="center">Hi there 👋 I'm Pranathi</div></h1>
+<h1><div align="center">Hi there 👋 I'm Pranati</div></h1>
 <h2><div align="center">👩‍💻 Data Analyst </div></h2>
 I’m passionate about transforming raw data into actionable insights and developing interactive dashboards that drive smarter business decisions. 
 Data & BI professional with hands-on experience in SQL, Power BI, Azure SQL, AWS, Python, R. 
